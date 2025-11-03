@@ -1,7 +1,7 @@
 # Hi!
 
 I'm André, I have some experience with Computer Vision, Machine Learning and AI Projects in general.
-I hold a PhD in Computer Science focused on image-based defect inspection in multiple environments.
+I have a PhD in Computer Science focused on image-based defect inspection in multiple environments (published in WACV, CVPRW and NeurIPSW).
 
 My current job is as an AI Project Lead @ Revelo, mainly involving data delivery for LLM training for Big Tech.
 In the past I've worked as (most recent to oldest):
