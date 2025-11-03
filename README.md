@@ -14,4 +14,4 @@ In the past I've worked as (most recent to oldest):
 - R&D Engineer @ Voxar Labs
 - CS Professor in a Local College in Recife, Brazil @ Uninassau
 
-### [**Here's my complete CV**](https://github.com/user-attachments/files/23306640/CV_Andre_Luiz_Buarque_Vieira_e_Silva.pdf)
+### ➜ [**Here's my complete CV**](https://github.com/user-attachments/files/23306640/CV_Andre_Luiz_Buarque_Vieira_e_Silva.pdf)
