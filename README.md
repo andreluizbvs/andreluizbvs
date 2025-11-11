@@ -7,7 +7,7 @@ I have a PhD in Computer Science focused on image-based defect inspection in mul
 I currently work as an AI Project Lead at Revelo, which mainly involves data delivery for LLM training for Big Tech and sometimes fixing tech-related problems (automatizing stuff with Python).
 In the past I've worked as (↑ most recent):
 - AI/CV Engineer (biometrics industry) @ Caf
-- LXAI Workshop Organizer/Presentation Chair @ CVPRW
+- Workshop Organizer/Presentation Chair @ LXAI, CVPRW
 - LLM trainer (freelancing labeler) @ Turing
 - Senior Computer Vision Consultant @ Stepps
 - Research Assistant @ TU Chemnitz
